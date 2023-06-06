@@ -1,2 +1,2 @@
 # PropertyPricesRShiny
-EDA, GLM, and RShiny app exploring property prices in England
+EDA, GAM, and RShiny app exploring property prices in England
